@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e4c682e5fe08fa4482969f6d414913a, type: 3}
+  m_Name: Stonecutter Recipe
+  m_EditorClassIdentifier: 
+  type: 1
+  ingredients:
+  - item: {fileID: 11400000, guid: b652ad9b9acfc3845a65c46791dd9edd, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 3d51503b2d78d604f8493250ef8e124c, type: 2}
+    amount: 4
+  products:
+  - item: {fileID: 11400000, guid: 3a83912b9c2e41945a1fb68b54e0114d, type: 2}
+    amount: 1

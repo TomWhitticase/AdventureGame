@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119bfb0bb8eaac5469e8837f62a2e3b0, type: 3}
+  m_Name: Iron Hoe
+  m_EditorClassIdentifier: 
+  icon: {fileID: 8338025924760608313, guid: bab3a584ff97a7741b849584b28c1f7c, type: 3}
+  type: 1
+  description: 
+  maxStack: 1
+  unobtainable: 0
+  toolType: 4
+  miningSpeedModifier: 0
+  attackDamage: 0
+  attackCooldown: 0
+  knockback: 0
+  lifeTime: 0
+  durability: 75
+  attackSprite: {fileID: 0}
+  miningLevel: 0
+  tilesCanBeChanged:
+  - {fileID: 11400000, guid: 3243e8ec22f62064b89ed66d38e9dcb1, type: 2}
+  - {fileID: 11400000, guid: d6b1d778f48d0644a95961637a7998b2, type: 2}
+  tilesCanBeChangedResults:
+  - {fileID: 11400000, guid: 4657007d3742df248a6a60c5f6176b6d, type: 2}
+  - {fileID: 11400000, guid: 4657007d3742df248a6a60c5f6176b6d, type: 2}
+  itemUsedUp: {fileID: 0}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f22ed6f067f4294f97497dfab6be6cb, type: 3}
+  m_Name: Copper Ore
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2037059980372126657, guid: b0f5354b0b056f44fb5bda332a346b3c, type: 3}
+  type: 0
+  description: Can be smelted in a furnace to make copper ingot
+  maxStack: 100
+  unobtainable: 0
+  placementTile: {fileID: 11400000, guid: 188a383738baa1140982fbdabc56ee9f, type: 2}
+  unbreakable: 0
+  originTiles:
+  - {fileID: 11400000, guid: 188a383738baa1140982fbdabc56ee9f, type: 2}
+  itemsToGive:
+  - item: {fileID: 11400000}
+    probability: 1
+  miningTime: 10
+  layer: 1
+  toolUsed: 0
+  miningLevelRequired: 2
+  mustUseTool: 1
+  tileMustBePlacedOn: []
+  isOverwriteable: 0
+  layerIndex: 1
+  emitsLight: 0

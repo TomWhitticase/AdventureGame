@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: caveExit
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: -4564238275386503332, guid: bab3a584ff97a7741b849584b28c1f7c,
+    type: 3}
+  m_DefaultGameObject: {fileID: 5065574201011452092, guid: 43862339a4d504848a3238b9ef18d76e,
+    type: 3}
+  m_DefaultColliderType: 0
+  m_TilingRules: []

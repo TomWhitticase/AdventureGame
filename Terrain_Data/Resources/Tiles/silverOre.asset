@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 535f8e525ff367c4ba67961e201a05ed, type: 3}
+  m_Name: silverOre
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+  m_Sprites:
+  - {fileID: 7029992469169250325, guid: b83beb2c5a537c24f981bfba093941bf, type: 3}
+  - {fileID: -7303503930766593894, guid: b83beb2c5a537c24f981bfba093941bf, type: 3}
+  - {fileID: 1029031519864144098, guid: b83beb2c5a537c24f981bfba093941bf, type: 3}
+  - {fileID: 6504798720902096931, guid: b83beb2c5a537c24f981bfba093941bf, type: 3}
+  - {fileID: 5792741183178908492, guid: b83beb2c5a537c24f981bfba093941bf, type: 3}
+  - {fileID: -4165902984282707409, guid: b83beb2c5a537c24f981bfba093941bf, type: 3}
+  - {fileID: 9172719003429571921, guid: b83beb2c5a537c24f981bfba093941bf, type: 3}
+  - {fileID: -3609918234367491772, guid: b83beb2c5a537c24f981bfba093941bf, type: 3}
+  - {fileID: -533318084068269785, guid: b83beb2c5a537c24f981bfba093941bf, type: 3}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119bfb0bb8eaac5469e8837f62a2e3b0, type: 3}
+  m_Name: Iron Pickaxe
+  m_EditorClassIdentifier: 
+  icon: {fileID: 8183559487800833201, guid: bab3a584ff97a7741b849584b28c1f7c, type: 3}
+  type: 1
+  description: 
+  maxStack: 1
+  unobtainable: 0
+  toolType: 0
+  miningSpeedModifier: 4
+  attackDamage: 0
+  attackCooldown: 0
+  knockback: 0
+  lifeTime: 0
+  durability: 75
+  attackSprite: {fileID: 0}
+  miningLevel: 3
+  tilesCanBeChanged: []
+  tilesCanBeChangedResults: []
+  itemUsedUp: {fileID: 0}

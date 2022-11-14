@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b4329014402ed144baf5610158b1d41, type: 3}
+  m_Name: Baked Potato
+  m_EditorClassIdentifier: 
+  icon: {fileID: 4197610675470519617, guid: bab3a584ff97a7741b849584b28c1f7c, type: 3}
+  type: 2
+  description: 
+  maxStack: 100
+  unobtainable: 0
+  healthPoints: 0
+  hungerPoints: 2

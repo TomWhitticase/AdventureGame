@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a43d34c302787c5469dee287fd1b21c7, type: 3}
+  m_Name: Steel Greaves
+  m_EditorClassIdentifier: 
+  icon: {fileID: 3128065000129221771, guid: bab3a584ff97a7741b849584b28c1f7c, type: 3}
+  type: 3
+  description: 
+  maxStack: 1
+  protection: 20
+  mobility: 5
+  stealth: -5
+  strength: 0
+  equipmentType: 2
+  playerWearingSprite: {fileID: -2283171099560847183, guid: 7e0ad58a0b6065241bcd661a49a43d50,
+    type: 3}
+  playerWearingSwimmingSprite: {fileID: 0}
+  durability: 400
